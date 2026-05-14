@@ -1,12 +1,27 @@
-Hi 👋 My name is Surakiat - Nickname Lay
-========================================
+# Surakiat (Hurray)
 
-Student (Information Technology)
---------------------------------
+Junior Developer from Thailand 🇹🇭
 
-I have been learning to code since I was 15 years old. I believe this field will advance my career in information technology, so I am committed to developing myself enough to excel in this field for my future.
+I enjoy building modern web applications and continuously improving my skills through real-world projects and hands-on learning.
 
-*   🌍  I'm based in Thailand
-*   🖥️  See my portfolio at [My old project](http://sites.google.com/view/surakiat-collection/)
-*   ✉️  You can contact me at [surakiat02nkp@gmail.com](mailto:surakiat02nkp@gmail.com)
-                    
+## Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- Firebase
+- JavaScript
+
+## Current Focus
+
+- Frontend Development
+- UI/UX Design
+- Full-stack Web Applications
+
+## Links
+
+Portfolio  
+[My old project](http://sites.google.com/view/surakiat-collection/)
+
+Email  
+[surakiat02nkp@gmail.com](mailto:surakiat02nkp@gmail.com)
